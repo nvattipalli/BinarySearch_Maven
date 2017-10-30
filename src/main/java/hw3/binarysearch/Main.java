@@ -9,7 +9,7 @@ import org.apache.commons.cli.Option;
 import org.apache.commons.cli.Options;
 import org.apache.commons.cli.ParseException;
 
-public class binarySearch  {
+public class Main  {
 	
 	public static void main(String[] args) {
 		int returnValue = -1;
