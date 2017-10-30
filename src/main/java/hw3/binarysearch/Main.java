@@ -49,8 +49,8 @@ public class Main  {
 			    		returnValue = 0;
 			    	}
 		    	} 
-		    	catch (NumberFormatException nume) {
-		    		    System.out.println("Incorrect Input! Exception: " + nume);
+		    	catch (NumberFormatException numexcep) {
+		    		    System.out.println("Incorrect Input! Exception: " + numexcep);
 		    		    System.exit(1);
 		    	}
 		    }
